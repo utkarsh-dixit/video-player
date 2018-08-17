@@ -1,0 +1,30 @@
+{
+  "name": "video-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarsh-dixit/video-player.git"
+  },
+  "keywords": [
+    "html5",
+    "javascript",
+    "video-player",
+    "customizable",
+    "elegant"
+  ],
+  "author": "Utkarsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarsh-dixit/video-player/issues"
+  },
+  "homepage": "https://github.com/utkarsh-dixit/video-player#readme",
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
